@@ -7,7 +7,7 @@
  
  <br>
 
- **Currently, I'm 18 years old and fully dedicated to back-end development. I started programming in late 2019 when my uncle asked me to create a website for his accounting office, and that's when my programming journey began.**
+ **Currently, I'm 19 years old and fully dedicated to back-end development. I started programming in late 2019 when my uncle asked me to create a website for his accounting office, and that's when my programming journey began.**
 
  <br />
 
